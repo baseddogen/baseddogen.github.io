@@ -26,5 +26,12 @@
             "sep-13-2020": null
         },
         "name": "Oregon Fires"
+    },
+    "undetermined-fires-2020" : {
+        "files": {
+            "sep-10-2020": null,
+            "sep-12-2020": null
+        },
+        "name": "Undetermined Causes"
     }
 }
