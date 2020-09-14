@@ -16,5 +16,13 @@
             {"type": "article", "source": "KATU2", "archiver": "archive.today", "url": "https://archive.vn/kdDIf"},
             {"type": "social", "source": "Twitter", "archiver": "archive.today", "url": "https://archive.vn/nhsb4"}
         ]
+    },
+    {
+        "title": "",
+        "url": "https://twitter.com/ClownWorldNews1/status/1305644823517392897",
+        "id": "1305644823517392897",
+        "archives": [
+            {"type": "social", "source": "Twitter", "archiver": "archive.today", "url": "https://archive.vn/wip/ho93H"}
+        ]
     }
 ]
