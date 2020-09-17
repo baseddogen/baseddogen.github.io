@@ -54,5 +54,11 @@
             "2020": null
         },
         "name": "Pedo Watch"
-    }  
+    },
+    "sedition-2020" : {
+        "files": {
+            "sep-16-2020": null
+        },
+        "name": "Sedition"
+    }
 }
